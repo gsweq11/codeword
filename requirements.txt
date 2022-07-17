@@ -6,9 +6,10 @@ pillow
 pyrogram==1.4.16
 hachoir
 lyricsgenius
-py-tgcalls==0.9.1
+py-tgcalls==0.8.6
 wget
 python-dotenv
+pyyaml==5.3.1
 youtube-search-python
 youtube_search
 git+https://github.com/gsweq11/margin@master
