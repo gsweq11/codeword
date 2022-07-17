@@ -3,13 +3,13 @@ aiofiles
 asyncio
 ffmpeg-python
 pillow
-pyrogram==1.4.16
+pyrogram==1.4.12
 hachoir
 lyricsgenius
-py-tgcalls==0.9.1
+py-tgcalls==0.8.5
 wget
 python-dotenv
-youtube-search-python
+youtube-search-python==1.4.9
 youtube_search
 git+https://github.com/gsweq11/margin
 motor
@@ -17,7 +17,7 @@ psutil
 requests
 rich
 dnspython
-git+https://github.com/gsweq11/text
+git+https://github.com/Sorrybabe/downloader
 tgcrypto
 gitpython
 heroku3
