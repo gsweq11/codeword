@@ -6,12 +6,12 @@ pillow
 pyrogram==1.4.16
 hachoir
 lyricsgenius
-py-tgcalls==0.8.6
+py-tgcalls==0.9.1
 wget
 python-dotenv
 youtube-search-python
 youtube_search
-git+https://github.com/matalata02/srepet@master
+git+https://github.com/gsweq11/margin@master
 motor
 psutil
 requests
