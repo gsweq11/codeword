@@ -1,6 +1,6 @@
-aiohttp
-bs4
 aiofiles
+bs4
+aiohttp
 asyncio
 ffmpeg-python
 pillow
