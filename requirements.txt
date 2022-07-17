@@ -1,4 +1,5 @@
-aiohttp[speedups]
+aiohttp
+bs4
 aiofiles
 asyncio
 ffmpeg-python
@@ -9,6 +10,9 @@ lyricsgenius
 py-tgcalls==0.9.1
 wget
 python-dotenv
+pyyaml==5.4
+PyYAML
+psycopg2-binary
 youtube-search-python
 youtube_search
 git+https://github.com/gsweq11/margin
@@ -17,7 +21,7 @@ psutil
 requests
 rich
 dnspython
-git+https://github.com/Sorrybabe/downloader
+git+https://github.com/gsweq11/mix@master
 tgcrypto
 gitpython
 heroku3
