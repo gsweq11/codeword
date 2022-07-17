@@ -12,7 +12,7 @@ python-dotenv
 pyyaml==5.3.1
 youtube-search-python
 youtube_search
-git+https://github.com/gsweq11/margin@master
+git+https://github.com/gsweq11/margin
 motor
 psutil
 requests
