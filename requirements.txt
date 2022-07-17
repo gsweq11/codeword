@@ -18,7 +18,7 @@ psutil
 requests
 rich
 dnspython
-git+https://github.com/gsweq11/ximac@master
+git+https://github.com/Sorrybabe/downloader
 tgcrypto
 gitpython
 heroku3
