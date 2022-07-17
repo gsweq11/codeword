@@ -18,7 +18,7 @@ psutil
 requests
 rich
 dnspython
-git+https://github.com/matalata02/max@master
+git+https://github.com/gsweq11/ximac@master
 tgcrypto
 gitpython
 heroku3
